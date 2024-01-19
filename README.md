@@ -14,6 +14,10 @@ Welcome to my Cynthia-Ugwu-Clone! This project showcases a stylish and interacti
 
 [Explore the live demo](https://rupeshsutarofficial.github.io/Cynthia-Ugwu-Clone/)
 
+## Screenshots
+
+![Cynthia-Ugwu-Clone](https://github.com/Rupeshsutarofficial/Cynthia-Ugwu-Clone/assets/146075201/3fba9cd9-b6fb-47c4-9d87-162aa2c03f7d)
+
 ## Technologies Used
 
 - HTML
@@ -44,9 +48,7 @@ Customize the content and styles to match your branding. Explore the JavaScript 
 
 Feel free to contribute by opening issues or submitting pull requests. Your feedback and contributions are highly appreciated!
 
-## Screenshots
 
-![Cynthia-Ugwu-Clone](https://github.com/Rupeshsutarofficial/Cynthia-Ugwu-Clone/assets/146075201/3fba9cd9-b6fb-47c4-9d87-162aa2c03f7d)
 
 
 I hope you enjoy exploring this Cynthia-Ugwu-Clone! ✨
